@@ -1,1 +1,0 @@
-# bingify_client
